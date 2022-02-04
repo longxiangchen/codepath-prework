@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/dGwvSKL' title='Prework Walthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/blemteQ.gif' title='Prework Walthrough' width='' alt='Video Walkthrough' />
 
 Video created with [Quicktime Webplayer]
 
