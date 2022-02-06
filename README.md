@@ -35,7 +35,7 @@ Initial Version:
 <img src='https://i.imgur.com/blemteQ.gif' title='Prework Walthrough' width='' alt='Gif Walkthrough' />
 
 Improved Version:
-<img src='https://i.imgur.com/BAZ4hxU.mp4' title='Tip Calculator V1.1' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/x6QULk3.gif' title='Tip Calculator V1.1' width='' alt='Gif Walkthrough' />
 
 Video created with [Quicktime Webplayer]
 
@@ -43,7 +43,7 @@ Video created with [Quicktime Webplayer]
 
 The base requirements were relatively easy to produce, as well as the slider for the tip percentage control. The conversion of the total and stepCounter to Doubles was a little difficult to manage(I previously had UIStepper, but removed it due to issues with updating the split value). I tried to convert the UIStepper value to Double so I could divide the total by that number for the split price. I used Double(sender.value).description for the number of splits, but it stayed as a String, in turn did not allow me to divide the total by the number of people splitting. Another challenge was making sure that both tip and total were updated correctly as the slider was changing. I also learned from my mistakes as to be careful when naming IBOutlets and IBActions, because my app would crash after certain events due to certain outlets being incorrectly connected.
 
-Update: Added split, adjusted UI and added animations for the tip slider. Made the billAmountTextField firstResponder and set the keyboard format to decimal numpad. 
+Update: Added split, adjusted UI and added animations for the tip slider. Made the billAmountTextField firstResponder and set the keyboard format to decimal numpad. New UI is grey themed and easier on the eyes.
   
 ## License
 
