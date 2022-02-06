@@ -32,9 +32,11 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 Initial Version:
+
 <img src='https://i.imgur.com/blemteQ.gif' title='Prework Walthrough' width='' alt='Gif Walkthrough' />
 
 Improved Version:
+
 <img src='https://i.imgur.com/x6QULk3.gif' title='Tip Calculator V1.1' width='' alt='Gif Walkthrough' />
 
 Video created with [Quicktime Webplayer]
