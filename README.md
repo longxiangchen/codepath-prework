@@ -37,7 +37,7 @@ Initial Version:
 
 Improved Version:
 
-<img src='https://i.imgur.com/x6QULk3.gif' title='Tip Calculator V1.1' width='' alt='Gif Walkthrough' />
+<img src='https://i.imgur.com/nFo13PL.gif' title='Tip Calculator V1.1' width='' alt='Gif Walkthrough' />
 
 Video created with [Quicktime Webplayer]
 
